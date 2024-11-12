@@ -1,5 +1,7 @@
 # Bash Scripting and Automation
 
+![ GitHub followers ](https://img.shields.io/github/followers/rudradcruze?style=social) ![ GitHub Repo stars ](https://img.shields.io/github/stars/rudradcruze/Phitron?style=social) ![ GitHub repo size ](https://img.shields.io/github/repo-size/rudradcruze/Phitron) ![ YouTube Channel Subscribers ](https://img.shields.io/youtube/channel/subscribers/UCTZN1mzW0AwackW7axf7-OQ?style=social) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
+
 Welcome to the Bash Scripting and Automation repository! This project showcases various Bash scripting examples covering fundamental and advanced concepts, such as variable usage, conditional statements, loops, arrays, functions, and file I/O operations.
 
 ## 🧰 Project Overview

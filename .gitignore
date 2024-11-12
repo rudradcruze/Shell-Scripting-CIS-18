@@ -1,0 +1,58 @@
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Temporary files #
+###################
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+*._.git
+._.gitignore
+*._.gitignore
+
+# Node modules (if JavaScript is involved) #
+###########################################
+node_modules/
+npm-debug.log
+
+# Compiled files #
+##################
+*.o
+*.out
+*.class
+
+# Sensitive environment files #
+###############################
+.env
+
+# Python virtual environment (if Python scripts are used) #
+###########################################################
+venv/
+__pycache__/
+
+# Binary executable files #
+###########################
+*.exe
+*.bin
+*.dll
+
+# Ignore compiled Bash scripts (if any) #
+#########################################
+*.shc
+
+# MacOS specific files #
+########################
+.AppleDouble
+.LSOverride

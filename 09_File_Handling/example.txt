@@ -1,0 +1,2 @@
+Hello students you are learning shell scripting.
+Course Name: Operating System
